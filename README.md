@@ -40,3 +40,12 @@ This repository contains the files and deliverables for the renewable energy art
 
 - The `deliverables/` folder contains the final report PDF and presentation slides.
 - The `figures/` folder contains plots and visualizations used for analysis and results.
+
+---
+
+Aquino, Dallas A.
+Buñag, Frederick Jibril L.
+Carbonell, Ethan Jed V.
+Corpes, Vincent L. Jr.
+
+BSCS 3A AI
