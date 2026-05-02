@@ -29,11 +29,8 @@ This repository contains the files and deliverables for the renewable energy art
    - Visual results are also captured in `figures/`.
 
 4. **Final Project Report**
-   - PDF version:
+   - PDF:
      - `deliverables/report.pdf`
-   - Source report files:
-     - `report/report.tex`
-     - other LaTeX build artifacts in `report/`
 
 5. **Presentation Slides**
    - Presentation file:
