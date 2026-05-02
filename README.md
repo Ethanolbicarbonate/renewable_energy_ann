@@ -42,5 +42,4 @@ This repository contains the files and deliverables for the renewable energy art
 ## Notes
 
 - The `deliverables/` folder contains the final report PDF and presentation slides.
-- The `report/` folder contains the LaTeX source of the final report.
 - The `figures/` folder contains plots and visualizations used for analysis and results.
