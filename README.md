@@ -43,9 +43,9 @@ This repository contains the files and deliverables for the renewable energy art
 
 ---
 
-Aquino, Dallas A.
-Buñag, Frederick Jibril L.
-Carbonell, Ethan Jed V.
-Corpes, Vincent L. Jr.
+Aquino, Dallas A. <br>
+Buñag, Frederick Jibril L. <br>
+Carbonell, Ethan Jed V. <br>
+Corpes, Vincent L. Jr. <br>
 
 BSCS 3A AI
