@@ -1,0 +1,14 @@
+# Security
+.env
+
+# Environments
+.venv/
+env/
+__pycache__/
+
+# Data (Don't upload large datasets to GitHub)
+data/raw/
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
