@@ -1,4 +1,5 @@
 # Artificial Neural Network for Solar Energy Forecasting
+Repo link: https://github.com/Ethanolbicarbonate/renewable_energy_ann
 
 A Python-based machine learning pipeline that predicts hourly photovoltaic (PV) energy generation for a 1 kWp system in Iloilo City, Philippines, utilizing a multilayer feedforward ANN and localized meteorological data.
 
